@@ -60,6 +60,8 @@ Please read the <a href="#contributions">contributions</a> section before openin
 | Emily Freeman | Data Theorem Special Edition | [API Security for dummies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWJ9kN) | This book is a high-level introduction to the key concepts of API security and DevSecOps. |
 | Justing Richer and Antonio Sanso | Manning | [Understanding API Security](https://livebook.manning.com/book/understanding-api-security/introduction/) | Several chapters from several Manning books that give you some context for how API security works in the real world. |
 | Neil Madden | Manning   | [API Security in Action](https://www.manning.com/books/api-security-in-action)| API Security in Action teaches you how to create secure APIs for any situation. |
+| José Haro Peralta | Manning   | [Secure APIs: Design, build, and implement](https://www.manning.com/books/secure-apis)| Practical, battle-tested techniques to recognize and prevent attacks on your APIs. |
+
 
 ## Cheatsheets
 | Name | Description |
