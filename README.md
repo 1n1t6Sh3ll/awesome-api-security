@@ -148,6 +148,7 @@ Please read the <a href="#contributions">contributions</a> section before openin
 ## Firewalls
 | Name | Description |
 | ---- | ----------- |
+| [BunkerWeb](https://github.com/bunkerity/bunkerweb)| Open-source and next-generation Web Application Firewall (WAF) with integrated ModSecurity, OWASP Core Rule Set, automatic bot blocking, rate limiting, and comprehensive protection for web services and APIs. |
 | [Wallarm Free API Firewall](https://github.com/wallarm/api-firewall)| Fast and light-weight API proxy firewall for request and response validation by OpenAPI specs.  |
 
 ## Fuzzing, SecLists, Wordlists
