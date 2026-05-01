@@ -253,7 +253,7 @@ Name | Author | Description |
 | ---- | ----------- |
 | [awesome-security-apis](https://github.com/jaegeral/security-apis)| A collective list of public JSON APIs for use in security. |
 
-## Specifications
+## API Description Specifications
 | Name | Description |
 | ---- | ----------- |
 | [API Blueprint](https://apiblueprint.org/documentation/specification.html)| API Blueprint Specification | 
