@@ -353,17 +353,19 @@ Name | Author | Description |
 
 2. **Out of Scope:** Pull requests that involve vendor-specific content, advertisements, commercial or restricted products, free trials, freemium services, closed-source (proprietary) software, or services that require users to provide private details will be considered out of scope and may be closed or ignored.
 
-3. **Relevance:** Contributions must be directly related to API security, bug hunting, API hardening, or API hacking. Materials unrelated to these topics may be discarded.
+3. **Commercial or Vendor Packaging:** Contributions that are primarily commercial or vendor packaging (for example, product-style bundles, installers, or distributions that mainly wrap or repackage existing tools for promotional or "complete product" positioning without substantial new, community-focused value) are out of scope.
 
-4. **Duplicates and Relevance:** Duplicate entries or submissions that do not add new, relevant content beyond existing entries will not be considered.
+4. **Relevance:** Contributions must be directly related to API security, bug hunting, API hardening, or API hacking. Materials unrelated to these topics may be discarded.
 
-5. **Out of Scope PRs:** Pull requests that fall outside the scope of this repository are likely to be discarded, closed, or ignored without notice.
+5. **Duplicates and Relevance:** Duplicate entries or submissions that do not add new, relevant content beyond existing entries will not be considered.
 
-6. **Twitter Section:** The Twitter section references authors of books, videos, workshops, courses, newsletters, or other content already present in this repository. While this section is somewhat subjective and may be divisive, it has been included as it might be helpful to some visitors of the repository.
+6. **Out of Scope PRs:** Pull requests that fall outside the scope of this repository are likely to be discarded, closed, or ignored without notice.
 
-7. **Content Accuracy:** If you are an author of tools or content and notice that your description is inaccurate or outdated in any section (including the Twitter section), please reach out to update it.
+7. **Twitter Section:** The Twitter section references authors of books, videos, workshops, courses, newsletters, or other content already present in this repository. While this section is somewhat subjective and may be divisive, it has been included as it might be helpful to some visitors of the repository.
 
-8. **Book References:** The only exception to the "out-of-scope" rule pertains to books. Some referenced books may have an associated cost, which is allowed under certain circumstances.
+8. **Content Accuracy:** If you are an author of tools or content and notice that your description is inaccurate or outdated in any section (including the Twitter section), please reach out to update it.
+
+9. **Book References:** The only exception to the "out-of-scope" rule pertains to books. Some referenced books may have an associated cost, which is allowed under certain circumstances.
 
 If you think your content fits the above purposes, please
 - create a new branch
